@@ -1,4 +1,5 @@
 # Chat Application
+
 A socket-based desktop chat application written in C#
 
 ### About
@@ -11,3 +12,7 @@ This project includes both a server and a client program. Once the server is sta
 - Supports multiple clients on a single server
 - Clean and simple graphical user interface
 - Gracefully handles error events like unexpected server shutdown
+
+### Version 1.0
+
+The first version of this project has been released. You can download the executables for this project [here](https://github.com/davidjpfeiffer/chat-application/releases) or download the source code and build the project in Visual Studio to obtain the executables from the `bin` directory. Simply run the executable to start the application (no command-line parameters are required).
