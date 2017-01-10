@@ -1,6 +1,6 @@
 # Chat Application
 
-A socket-based desktop chat application written in C#
+A socket-based desktop chat application
 
 ### About
 
